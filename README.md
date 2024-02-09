@@ -24,3 +24,11 @@ Please refer to the license in the repo.
 ## Deployed Application
 [Deployed Application](https://pbullock08.github.io/weather-forecaster/)
 ![image](./assets/images/deployed-app.gif)
+
+# output
+
+
+
+https://github.com/thombreanand/weather-forcasting/assets/153847243/395bf66c-4a75-419d-a91b-cb503d64a0ec
+
+
